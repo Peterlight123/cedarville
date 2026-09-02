@@ -1,0 +1,19 @@
+{
+  "name": "cedarville-schools",
+  "version": "1.0.0",
+  "description": "Cedarville Private Schools - Premium Early Childhood Education Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "school",
+    "education",
+    "website"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.22.1"
+  }
+}

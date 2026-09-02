@@ -1,0 +1,29 @@
+{
+  "_comment": "EDIT ME: this list mirrors the FAQ accordion in admissions.html and also feeds the chatbot's FAQ knowledge. Keep both in sync when you add a question here.",
+  "faqs": [
+    {
+      "question": "What age does my child need to be to enroll?",
+      "answer": "We accept children from 6 months of age for our Creche program, up to 11 years for Primary."
+    },
+    {
+      "question": "Are admissions open throughout the year?",
+      "answer": "Yes, we accept new students throughout the year, subject to availability of spaces in each class."
+    },
+    {
+      "question": "Do you offer a trial period or visiting day?",
+      "answer": "Yes! We encourage families to schedule a school tour before enrolling so you can see our environment and meet our team."
+    },
+    {
+      "question": "Are there sibling discounts available?",
+      "answer": "Yes, we offer sibling discounts. Please contact our administrative office for the current discount structure."
+    },
+    {
+      "question": "Do pupils have to wear a uniform?",
+      "answer": "Yes, all pupils wear the Cedarville uniform on regular school days, with a house-colour outfit on designated activity days. Uniforms can be purchased through the school office."
+    },
+    {
+      "question": "What are the school's operating hours?",
+      "answer": "We are open Monday to Friday, 7:00 AM - 6:00 PM. The Creche program runs on extended hours until 6:00 PM to support working parents."
+    }
+  ]
+}

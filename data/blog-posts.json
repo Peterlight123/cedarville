@@ -1,0 +1,129 @@
+{
+  "_comment": "EDIT ME: add a new post by adding an object to the array below. category must be one of: parenting, education, events, news. date format YYYY-MM-DD. Duplicate an existing object as a template.",
+  "categories": [
+    { "key": "all", "label": "All Posts" },
+    { "key": "parenting", "label": "Parenting Tips" },
+    { "key": "education", "label": "Education" },
+    { "key": "events", "label": "School Events" },
+    { "key": "news", "label": "School News" }
+  ],
+  "posts": [
+    {
+      "id": "new-branch-opening",
+      "title": "Exciting News: Cedarville Private Schools Opens a New Branch!",
+      "excerpt": "We are thrilled to announce the opening of our newest campus, extending the Cedarville standard of care and excellence to even more families across Lagos.",
+      "content": "It is with immense pride and gratitude that we announce a major milestone in our journey: Cedarville Private Schools is opening a brand-new branch! After years of steady growth and the trust of hundreds of families in Aguda, Surulere, we are excited to extend our doors to welcome even more children into the Cedarville family.\n\nThis new campus has been designed from the ground up around everything parents have come to expect from Cedarville: bright, air-conditioned classrooms, secure drop-off and pick-up zones, a dedicated Creche wing with a low caregiver-to-child ratio, and outdoor play areas built for safe, active fun. Every detail, from the furniture to the CCTV coverage, mirrors the same standards our current families rely on every day.\n\nThe new branch will offer our full range of programs, Creche, Nursery and Primary, taught by the same caliber of certified, experienced educators who have helped shape hundreds of confident young learners over the years. Our curriculum, blending Nigerian and British standards with a strong play-based foundation, will remain consistent across both locations, so families relocating within Lagos can transition their children with zero disruption to their learning journey.\n\nWe want to thank every parent, pupil and staff member who has been part of building the Cedarville name into one that Lagos families trust. This expansion would not be possible without you. Enrollment for the new branch is now open, and spaces are limited as we intend to maintain the same small class sizes that make Cedarville special.\n\nTo learn more about the new campus, schedule a tour, or begin the enrollment process, please reach out to us on WhatsApp or visit our Contact page. We cannot wait to welcome your family to this exciting new chapter!",
+      "author": "Cedarville Admin",
+      "date": "2026-08-24",
+      "category": "news",
+      "readTime": "4 min read",
+      "image": "images/school_building.png",
+      "featured": true,
+      "tags": ["new branch", "expansion", "announcement", "enrollment"]
+    },
+    {
+      "id": "back-to-school-tips",
+      "title": "Back-to-School Tips: Setting Your Child Up for a Great Term",
+      "excerpt": "A few simple habits in the days before resumption can make the first week of school smoother and far less stressful for the whole family.",
+      "content": "The excitement of a new term often comes with a little nervous energy, for children and parents alike. The good news is that a smooth start doesn't require anything complicated, just a few consistent habits in the days leading up to resumption.\n\nBegin adjusting sleep and wake times about a week before school starts. Children who have spent the holidays sleeping in will find early mornings much easier if their body clocks are already shifting back into rhythm. Pair this with a calm bedtime routine, reading, quiet conversation, dim lighting, so bedtime doesn't feel like a battle.\n\nLay out uniforms, shoes and school bags the night before rather than scrambling in the morning. Involving your child in packing their own bag builds a small sense of ownership and responsibility that carries into the classroom. Label everything clearly, water bottles, lunch boxes, cardigans, so misplaced items find their way home.\n\nTalk positively about the term ahead. Children pick up on parents' emotions quickly, so an enthusiastic tone about seeing friends, meeting a new teacher, or starting a favourite subject again goes a long way in easing first-day jitters. If your child seems anxious, listen first, then reassure, rather than dismissing the feeling.\n\nFinally, resist the urge to over-schedule the first week. Keep afternoons light so your child has time to decompress after a full day of readjusting to school. A calm, well-rested start sets the tone for a term of confident learning.",
+      "author": "Mrs. Adebayo Olamide",
+      "date": "2026-08-20",
+      "category": "parenting",
+      "readTime": "5 min read",
+      "image": "images/school gallery/class_with_children2.jpg",
+      "featured": true,
+      "tags": ["back to school", "resumption", "parenting", "routine"]
+    },
+    {
+      "id": "good-study-habits",
+      "title": "Helping Children Build Good Study Habits Early",
+      "excerpt": "Strong study habits aren't about pressure, they're about small, consistent routines that make learning feel manageable and even enjoyable.",
+      "content": "Good study habits are less about how many hours a child spends at a desk and more about consistency, environment and encouragement. Building these habits early, even in Nursery and early Primary, pays off for years to come.\n\nStart with a dedicated, distraction-free space. It doesn't need to be elaborate, a quiet corner with good lighting and a flat surface is enough. What matters is that the space is used consistently, so a child's brain begins to associate it with focus.\n\nKeep study sessions short and age-appropriate. Younger children benefit from 10-15 minute bursts of focused activity followed by a break, rather than long stretches that lead to frustration and restlessness. Break homework into small, clearly defined chunks so tasks feel achievable rather than overwhelming.\n\nMake revision active rather than passive. Reading through notes silently is far less effective than saying answers aloud, drawing a quick diagram, or explaining a concept back to a parent. These small acts of active recall strengthen memory far more than repetition alone.\n\nCelebrate effort, not just results. Praising the process, the focus, the persistence through a tricky worksheet, the willingness to ask for help, teaches children that learning itself is valuable, not just the grade at the end. Over time, this builds the kind of intrinsic motivation that carries a child confidently through every stage of school.",
+      "author": "Ms. Joy Williams",
+      "date": "2026-08-17",
+      "category": "education",
+      "readTime": "6 min read",
+      "image": "images/school gallery/class_with_children3.jpg",
+      "featured": false,
+      "tags": ["study habits", "homework", "education", "child development"]
+    },
+    {
+      "id": "why-reading-matters",
+      "title": "Why Reading Matters: Building a Lifelong Love of Books",
+      "excerpt": "Reading aloud to a child is one of the simplest, most powerful things a parent can do for their language development, imagination and academic future.",
+      "content": "Of all the habits a family can build together, few have as much impact as reading. Long before a child can decode letters on a page, listening to stories builds vocabulary, attention span, and an understanding of how language works, all skills that show up later in confident readers and writers.\n\nAt Cedarville, storytime is a daily ritual across every class, from Creche through Primary. Children gather for read-alouds, act out favourite scenes, and are gently encouraged to predict what happens next, a simple but powerful comprehension skill. We have found that children who are read to regularly at home arrive at school already comfortable with the rhythm and structure of stories.\n\nParents don't need to be perfect performers to make reading time special. What matters most is consistency and warmth, the same book read for the tenth time is still valuable, and a child's questions and observations during the story are worth pausing for, even if it means not finishing the page that night.\n\nAs children grow, let them choose their own books, even if the choice feels repetitive or below their reading level. Motivation and enjoyment matter more at this stage than pushing for advanced material. A child who reads because they want to will always out-progress a child who reads only because they are told to.\n\nA simple goal for any family: ten minutes of reading together, every single day. Over a school year, that adds up to hours of shared vocabulary, imagination and connection, an investment that pays dividends well beyond the classroom.",
+      "author": "Mrs. Rosemary Okonkwo",
+      "date": "2026-08-13",
+      "category": "education",
+      "readTime": "5 min read",
+      "image": "images/school gallery/class_with_children5.jpg",
+      "featured": false,
+      "tags": ["reading", "literacy", "early childhood", "education"]
+    },
+    {
+      "id": "preparing-new-term",
+      "title": "Preparing for a New School Term: A Parent's Checklist",
+      "excerpt": "From uniforms to term dues to that all-important mental reset, here is a simple checklist to help your family walk into the new term prepared.",
+      "content": "A new term brings a fresh set of goals, timetables and, often, a fresh pile of admin for parents to work through. A little organisation in the final week of the holidays goes a long way toward a calm start.\n\nBegin with the practical items: confirm uniforms still fit and are clearly labelled, check that shoes haven't been outgrown over the break, and restock exercise books, pencils and any other supplies on the school's list. Settle school fees and any outstanding dues ahead of resumption day to avoid last-minute stress.\n\nRevisit the school calendar together as a family. Knowing key dates, resumption day, mid-term break, sports day, helps everyone plan around the term rather than being surprised by it. If your child takes part in extracurricular clubs, confirm the new term's schedule and any items needed.\n\nHave a simple conversation with your child about the term ahead. Ask what they are looking forward to, and what, if anything, is worrying them. This is also a good moment to revisit routines around screen time, bedtime and homework that may have relaxed over the holidays.\n\nFinally, take a moment for yourself too. A calm, organised parent sets the emotional tone for the household. When resumption day arrives, you will be able to focus on the goodbye hug at the gate rather than a forgotten form in your bag.",
+      "author": "Cedarville Admin",
+      "date": "2026-08-10",
+      "category": "parenting",
+      "readTime": "4 min read",
+      "image": "images/welcome-image.jpeg",
+      "featured": false,
+      "tags": ["new term", "checklist", "preparation", "parenting"]
+    },
+    {
+      "id": "healthy-lunch-ideas",
+      "title": "Healthy Lunch Ideas for Students That Actually Get Eaten",
+      "excerpt": "A well-balanced lunch box keeps energy and concentration steady through the school day, here are practical, kid-approved ideas parents can rotate through the week.",
+      "content": "A child's lunch box has a bigger job than it looks like, it needs to refuel a busy morning of learning and playing, and carry them through until pick-up time without a mid-afternoon energy slump. The trick to a healthy lunch that actually gets eaten is balance, variety and keeping portions realistic for small appetites.\n\nAim for a simple formula: a source of protein, a whole grain, a fruit or vegetable, and a small treat if you like. Grilled chicken strips, boiled eggs, or beans pair well with brown rice, wholemeal bread or plantain. Cut fruit and vegetable sticks travel well and are far more likely to be eaten if cut into fun, bite-sized shapes.\n\nRotate a small set of go-to meals rather than trying to reinvent lunch daily, jollof rice with vegetables, a chicken and salad wrap, moi moi with plantain, or pasta salad all travel well and are easy to prepare in batches the night before.\n\nInvolve your child in choosing between two or three options for the week. Children are far more likely to eat a lunch they had a hand in selecting. Keep sugary drinks and heavily processed snacks as an occasional treat rather than a daily staple, water remains the best accompaniment to any school lunch.\n\nFinally, remember that appetite varies day to day. A lunch box that comes back half-eaten isn't a failure, it's normal. Consistency over time matters far more than any single day's plate.",
+      "author": "Chef Funke Adeyemi",
+      "date": "2026-08-06",
+      "category": "parenting",
+      "readTime": "5 min read",
+      "image": "images/students.jpeg",
+      "featured": false,
+      "tags": ["nutrition", "lunch box", "healthy eating", "parenting"]
+    },
+    {
+      "id": "digital-safety-for-children",
+      "title": "Digital Safety for Children: A Practical Guide for Parents",
+      "excerpt": "As young children spend more time with tablets and smartphones, a few simple household rules can keep screen time safe, balanced and age-appropriate.",
+      "content": "Technology is now part of childhood, and used well, it can support learning, creativity and connection with family. Used without guidance, though, it can expose young children to content and contact they aren't ready for. A little structure at home goes a long way toward keeping screen time safe.\n\nSet clear boundaries around when and where devices can be used. Many families find it helpful to keep screens out of bedrooms and to establish device-free times, such as during meals and the hour before bedtime, both of which support better sleep and family connection.\n\nUse parental controls and age-appropriate settings on any device or app a young child accesses. Most streaming platforms, app stores and search engines offer a kids' mode that filters content and disables in-app purchases. Review what your child is watching or playing periodically rather than assuming a one-time setup is enough.\n\nTeach simple digital safety rules in age-appropriate language: never share personal information like your address or school name with someone you meet online, always tell a trusted adult if something online feels confusing or upsetting, and treat unfamiliar links or pop-ups with caution.\n\nMost importantly, stay engaged. Watch a show or play a game together sometimes, and keep an open, judgment-free conversation going about what your child encounters online. Children who feel comfortable talking to parents about their digital world are far better protected than those relying on settings alone.",
+      "author": "Mrs. Igadumeh Judith",
+      "date": "2026-08-03",
+      "category": "parenting",
+      "readTime": "6 min read",
+      "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+      "featured": false,
+      "tags": ["digital safety", "screen time", "parenting", "online safety"]
+    },
+    {
+      "id": "supporting-learning-at-home",
+      "title": "Supporting Your Child's Learning at Home",
+      "excerpt": "Learning doesn't stop at the school gate. Small, everyday moments at home can reinforce classroom lessons without turning family time into extra homework.",
+      "content": "Parents often ask how much extra work they should be doing at home to support what happens in the classroom. The reassuring answer is: less than you think, and it doesn't need to look like a second school day.\n\nEveryday activities are full of learning opportunities. Cooking together introduces measuring and fractions, a trip to the market becomes a lesson in counting and budgeting, and simply narrating your day, what you're doing and why, builds vocabulary far more naturally than a worksheet.\n\nStay connected with your child's teacher through report cards, parent-teacher conferences and the school's communication channels. Knowing what topics are currently being covered lets you reinforce them naturally, pointing out shapes on a walk during a geometry unit, or discussing plants during a science topic on growth.\n\nCreate a predictable after-school rhythm: a snack and some downtime first, then a short, focused homework period, followed by free play. Children concentrate far better after a chance to decompress from a full school day than when homework is forced immediately at the door.\n\nAbove all, keep the tone warm and curious rather than corrective. Asking \"what was the most interesting thing you learned today?\" invites far richer conversation than \"did you finish your homework?\" and reinforces that learning is something to be excited about, not just a box to check.",
+      "author": "Mrs. Fadipe Theresa",
+      "date": "2026-07-30",
+      "category": "education",
+      "readTime": "5 min read",
+      "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=800&q=80",
+      "featured": false,
+      "tags": ["learning at home", "parent involvement", "education", "homework"]
+    },
+    {
+      "id": "school-news-activities-recap",
+      "title": "School News & Activities: A Look Back at Farmers' Market Day",
+      "excerpt": "Our pupils recently held their annual Farmers' Market Day, a hands-on celebration of enterprise, teamwork and healthy eating that the whole school enjoyed.",
+      "content": "One of the highlights of our school calendar this year was Farmers' Market Day, an annual event where our pupils set up stalls, price their own produce and crafts, and practice real-world skills like counting money, teamwork and public speaking, all inside the safe, supportive environment of our school compound.\n\nEach class spent weeks preparing, from planting small vegetable patches in our outdoor learning area to designing signs and price tags for their stalls. On the day itself, the compound transformed into a lively marketplace, with proud young \"shopkeepers\" calling out to parents and teachers to come and see what they had grown and made.\n\nBeyond the fun, the event ties directly into our curriculum goals. Younger pupils practiced counting and simple addition as they handled play currency, while older Primary pupils worked on budgeting, profit and loss, and confident communication with customers, all wrapped inside an event that felt like a celebration rather than a lesson.\n\nParents who attended remarked on how much confidence their children displayed, from shy pupils finding their voice to sell a bundle of vegetables, to natural extroverts taking charge of stall design. It's exactly the kind of hands-on, joyful learning experience we love to create at Cedarville.\n\nThank you to every family who came out to support, and to our wonderful teachers who turned weeks of planning into a day the children will remember for a long time. Keep an eye on our Events section and blog for the next opportunity to see our pupils' talents in action.",
+      "author": "Cedarville Admin",
+      "date": "2026-07-22",
+      "category": "news",
+      "readTime": "4 min read",
+      "image": "images/school gallery/022.jpeg",
+      "featured": false,
+      "tags": ["school news", "farmers market day", "events", "student life"]
+    }
+  ]
+}

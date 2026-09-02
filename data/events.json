@@ -1,0 +1,40 @@
+{
+  "_comment": "EDIT ME: date must be in YYYY-MM-DD format so events sort and auto-hide correctly once past.",
+  "events": [
+    {
+      "title": "New Academic Session Resumption",
+      "date": "2026-09-08",
+      "time": "8:00 AM",
+      "description": "Welcome back! Pupils resume for the new academic session. Uniforms, books and school materials should be ready.",
+      "category": "School Update"
+    },
+    {
+      "title": "Inter-House Sports Day",
+      "date": "2026-10-17",
+      "time": "9:00 AM",
+      "description": "An exciting day of races, relays and team games as our four houses compete for the trophy. Parents welcome to cheer!",
+      "category": "Event"
+    },
+    {
+      "title": "Parent-Teacher Conference",
+      "date": "2026-11-06",
+      "time": "10:00 AM - 2:00 PM",
+      "description": "One-on-one sessions with class teachers to review each child's progress for the term.",
+      "category": "Academics"
+    },
+    {
+      "title": "Cultural Day Celebration",
+      "date": "2026-11-20",
+      "time": "9:00 AM",
+      "description": "Pupils dress in traditional attire and showcase Nigeria's rich cultural heritage through food, dance and drama.",
+      "category": "Event"
+    },
+    {
+      "title": "End-of-Year Prize-Giving & Graduation",
+      "date": "2026-12-11",
+      "time": "10:00 AM",
+      "description": "Celebrating our pupils' achievements this term, and marking the graduation of our Primary leavers.",
+      "category": "Event"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "_comment": "EDIT ME: add a new topic by adding a key to 'responses' (string or array of strings for varied phrasing) and matching trigger words to 'keywords'. See CMS-GUIDE.md.",
+  "responses": {
+    "greeting": [
+      "Hello! Welcome to Cedarville Private Schools. How can I help you today? You can ask me about our programs, fees, admissions, uniform, events or facilities.",
+      "Hi there! I'm the Cedarville assistant. Ask me anything about school hours, admissions, our programs or upcoming events.",
+      "Welcome to Cedarville Private Schools! Feel free to ask about admissions, fees, our academic programs, or how to schedule a tour."
+    ],
+    "hours": "Our school hours are Monday to Friday, 7:00 AM - 6:00 PM. The Creche program has extended hours until 6:00 PM to support working parents.",
+    "fees": "Our fees vary by program and are reviewed each session. Please contact us on WhatsApp or call +234 813 745 1764 for the current fee structure, we also offer flexible payment plans and sibling discounts.",
+    "admission": "Our admission process:\n1. Schedule a school tour\n2. Submit an application form\n3. Assessment & friendly interview\n4. Enrollment confirmation\n\nAdmissions are open all year round, subject to space. Call or WhatsApp us at +234 813 745 1764 to get started!",
+    "programs": "We offer three main programs:\n\n- Creche: 6 months - 2 years\n- Nursery: 2 - 5 years\n- Primary: 6 - 11 years\n\nEach program is designed around the developmental needs of that age group, visit our Academics page for full details.",
+    "curriculum": "We follow a blended curriculum combining Nigerian and British educational standards with the Montessori method, focused on play-based learning, STEM activities and character development. We are also a Cambridge International Examinations accredited school.",
+    "academic_session": "Our academic year is split into three terms, similar to most Nigerian and British-curriculum schools. Resumption, mid-term breaks and closing dates are shared with parents ahead of each session, check our Events section on the homepage for the next key date.",
+    "facilities": "Our facilities include:\n\n- Spacious, air-conditioned classrooms\n- Outdoor playground\n- Library and reading corner\n- Sick bay with a registered nurse\n- CCTV monitoring throughout the premises\n- Nutritious meal service\n- A dedicated Creche nap room",
+    "teachers": "All our teachers are certified early childhood educators with a minimum of 5 years' experience. They undergo regular training and thorough background checks before joining Cedarville.",
+    "location": "We are located at 12 Ogunda Street, off Nuru Oniwo, Aguda, Surulere, Lagos. We have safe, supervised drop-off and pick-up zones.",
+    "contact": "You can reach us at:\n\nPhone/WhatsApp: +234 813 745 1764\nEmail: cedarvilleprivate@gmail.com\nAddress: 12 Ogunda Street off Nuru Oniwo, Aguda, Surulere, Lagos",
+    "whatsapp": "You can chat with us directly on WhatsApp at +234 813 745 1764, or use the 'Enroll Now' button at the top of any page.",
+    "uniform": "Yes, all pupils wear the Cedarville uniform on regular school days, with a house-colour outfit on designated activity days. Uniforms can be purchased through the school office, contact us for sizing and availability.",
+    "activities": "Yes! We offer a variety of extracurricular activities including music & dance classes, art & craft sessions, sports & physical education, STEM and robotics clubs, chess & scrabble, taekwondo, ballet, French club, swimming lessons and field trips. Visit our Contact page to know more.",
+    "tour": "We would love to show you around! Call or WhatsApp us at +234 813 745 1764, or visit our Contact page to schedule your tour.",
+    "gallery": "You can see photos from our classrooms, playground, events and activities on our Gallery page, use the filter buttons there to browse by category.",
+    "events": "We regularly host events like Inter-House Sports Day, Cultural Day, Parent-Teacher Conferences and our End-of-Year Prize-Giving. Check the 'Upcoming Events' section on our homepage for the next one, and dates.",
+    "blog": "Our Blog has articles on parenting tips, study habits, healthy eating, digital safety and the latest school news, including our exciting new branch announcement! Visit the Blog page to read more.",
+    "branch": "Exciting news, we've opened a brand-new branch! It offers the same Creche, Nursery and Primary programs, teachers and standards you know from Cedarville. Read the full announcement on our Blog page or contact us for details.",
+    "faq": "Great question! Many common questions, like age requirements, sibling discounts, and trial visits, are answered on our Admissions FAQ section. Would you like me to point you to a specific topic instead?",
+    "developer": "The school website was developed by Eluwade Peter, also known as Peter Lightspeed. You can see more of his work at https://peterlight123.github.io/portfolio/",
+    "founder": "Cedarville Private School opened in 2014. In 2022, it was taken over by a new board, led by Mrs Shitta-bey Zainab, with a renewed vision for excellence. Visit our About page to read the full story.",
+    "thanks": [
+      "You're very welcome! Is there anything else I can help you with?",
+      "Happy to help! Let me know if you have any other questions.",
+      "Anytime! Feel free to ask if anything else comes to mind."
+    ],
+    "fallback": [
+      "I'm not sure about that one, but I'd love to help! Try asking me about school hours, fees, admissions, programs, uniform, events or facilities.",
+      "Hmm, I don't have an answer for that yet. You can ask about admissions, our academic programs, tuition, or how to schedule a tour, or call us directly at +234 813 745 1764.",
+      "I couldn't quite catch that. Try rephrasing, or ask me about our programs, fees, facilities, events or how to enroll."
+    ]
+  },
+  "keywords": {
+    "greeting": ["hello", "hi", "hey", "good morning", "good afternoon", "good evening", "howdy", "greetings", "welcome", "what can you do", "what do you offer", "what services"],
+    "hours": ["hours", "opening time", "closing time", "school hours", "what time", "when do you open", "when do you close", "operating hours", "working hours"],
+    "fees": ["fees", "fee", "price", "cost", "tuition", "charge", "how much", "payment", "school fees"],
+    "admission": ["admission", "admissions", "enroll", "enrolment", "enrollment", "register", "registration", "apply", "application", "join the school"],
+    "programs": ["program", "programs", "programme", "class", "classes", "creche", "nursery", "primary", "age group", "which classes"],
+    "curriculum": ["curriculum", "syllabus", "subjects", "teaching method", "teaching approach", "learning approach", "montessori", "cambridge"],
+    "academic_session": ["academic session", "school calendar", "term dates", "resumption date", "when does school resume", "when does term end", "mid-term", "school terms"],
+    "facilities": ["facilities", "facility", "building", "classroom", "playground", "library", "cctv", "sick bay", "nurse", "meals", "nap room", "canteen"],
+    "teachers": ["teacher", "teachers", "staff", "educator", "educators", "qualified", "who teaches"],
+    "location": ["location", "address", "where are you", "where is the school", "situated", "located", "how do i get there"],
+    "contact": ["contact", "call", "phone number", "email address", "reach you", "how do i contact"],
+    "whatsapp": ["whatsapp", "wa link", "chat with you", "message you"],
+    "uniform": ["uniform", "uniforms", "dress code", "what do they wear", "school clothes"],
+    "activities": ["activities", "extracurricular", "clubs", "sports", "music", "art", "field trip", "field trips", "swimming", "robotics", "dance", "taekwondo", "chess", "ballet", "french club"],
+    "tour": ["tour", "visit the school", "see the school", "viewing", "come and see", "schedule a visit"],
+    "gallery": ["gallery", "photos", "pictures", "see photos", "photo album"],
+    "events": ["event", "events", "upcoming event", "sports day", "cultural day", "prize giving", "graduation", "parent teacher conference", "ptc"],
+    "blog": ["blog", "articles", "posts", "news article"],
+    "branch": ["new branch", "second branch", "another location", "new campus", "new school", "expansion"],
+    "faq": ["faq", "frequently asked question", "common question", "common questions"],
+    "developer": ["who built the website", "who developed the website", "who is the developer", "who made the website", "who designed the website", "who is the website creator"],
+    "founder": ["founder", "who founded", "who created the school", "when was the school founded", "who started the school", "who established the school", "school history"],
+    "thanks": ["thank you", "thanks", "appreciate it", "thank u"]
+  }
+}

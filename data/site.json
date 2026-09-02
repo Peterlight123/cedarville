@@ -1,0 +1,38 @@
+{
+  "_comment": "EDIT ME: this file controls contact info, socials and stats shown on every page. See CMS-GUIDE.md for full instructions.",
+  "school": {
+    "name": "Cedarville Private Schools",
+    "shortName": "Cedarville Schools",
+    "foundedYear": 2014,
+    "relaunchYear": 2022,
+    "tagline": "Growing Bright Minds With Care & Love",
+    "logo": "images/cedarville_logo.jpg"
+  },
+  "contact": {
+    "phoneDisplay": "+234 813 745 1764",
+    "phoneHref": "+2348137451764",
+    "whatsappNumber": "2348137451764",
+    "email": "cedarvilleprivate@gmail.com",
+    "address": "12 Ogunda Street, off Nuru Oniwo, Aguda, Surulere, Lagos",
+    "addressShort": "Aguda, Surulere, Lagos",
+    "hours": "Mon - Fri: 7:00 AM - 6:00 PM",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.2000372868956!2d3.3445294743592386!3d6.4963398234796825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b8c1a4604584f%3A0xabe3c337f797aaa7!2s12%20Ogundare%20St%2C%20Iganmu%2C%20Lagos%20101241%2C%20Lagos!5e0!3m2!1sen!2sng!4v1774268739711!5m2!1sen!2sng",
+    "mapsSearchUrl": "https://maps.google.com?q=Aguda+Surulere+Lagos"
+  },
+  "social": {
+    "facebook": "https://web.facebook.com/CedarvillePrivate",
+    "instagram": "https://www.instagram.com/cedarville_private_school/",
+    "tiktok": "https://www.tiktok.com/@cedarville.privateschool"
+  },
+  "stats": {
+    "students": { "value": 200, "suffix": "+", "label": "Happy Students" },
+    "yearsExperience": { "value": 10, "suffix": "+", "label": "Years Experience" },
+    "staff": { "value": 20, "suffix": "+", "label": "Qualified Staff" },
+    "classrooms": { "value": 10, "suffix": "", "label": "Classrooms" },
+    "programs": { "value": 3, "suffix": "", "label": "Learning Programs" }
+  },
+  "developer": {
+    "name": "Peter Lightspeed",
+    "url": "https://peterlight123.github.io/portfolio"
+  }
+}

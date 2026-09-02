@@ -1,0 +1,29 @@
+{
+  "_comment": "EDIT ME: add or remove testimonial objects. rating is out of 5.",
+  "testimonials": [
+    {
+      "quote": "Cedarville has been a blessing to our family. The teachers genuinely care about each child's development, and we've seen incredible growth in our daughter's confidence and social skills.",
+      "author": "Mrs. Adebayo Olamide",
+      "role": "Parent of Nursery Student",
+      "rating": 5
+    },
+    {
+      "quote": "The best decision we made was enrolling our twins at Cedarville. The small class sizes mean they get individual attention, and the daily photo updates give us peace of mind.",
+      "author": "Mr. & Mrs. Chukwu",
+      "role": "Parents of Creche Students",
+      "rating": 5
+    },
+    {
+      "quote": "My son started creche at Cedarville and is now in Primary 3. The foundation they gave him in reading and maths has made him excel. Thank you, Cedarville!",
+      "author": "Mrs. Fatima Ibrahim",
+      "role": "Alumni Parent",
+      "rating": 5
+    },
+    {
+      "quote": "From the warm welcome at the gate every morning to the detailed end-of-term reports, Cedarville feels like an extension of our family. Our daughter genuinely looks forward to school.",
+      "author": "Mr. Emeka Nwosu",
+      "role": "Parent of Primary Student",
+      "rating": 5
+    }
+  ]
+}
